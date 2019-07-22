@@ -4,7 +4,7 @@ let connection = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
   password : 'YourPassWord',
-  database : 'tutsexpress'
+  database : 'YourDatabaseName'
 });
 
 connection.connect();
