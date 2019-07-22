@@ -3,7 +3,7 @@ let mysql      = require('mysql');
 let connection = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
-  password : 'Abcd0000',
+  password : 'YourPassWord',
   database : 'tutsexpress'
 });
 
